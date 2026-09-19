@@ -1,0 +1,1 @@
+while (curr2 != null) {
